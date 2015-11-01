@@ -1,1 +1,0 @@
-wc : word count command can be used to count occurences of lines or words etc depending on the flags specified after wc 
